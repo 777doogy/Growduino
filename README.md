@@ -1,0 +1,2 @@
+# Growduino
+Arduino grow controller
